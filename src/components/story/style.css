@@ -52,7 +52,7 @@ Story-Area
     left: 50%;
     height: 97%;
     width: 4px;
-    background: #E8EFED;
+    background: #c8e4fa;
 }
 .story-area.story-style-2 .story .content-wrapper::before {
     background:#789DBC;

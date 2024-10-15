@@ -13,11 +13,13 @@
     background: url(../../images/section-title.png);
     width: 20%;
     height: 89%;
-    bottom: -16px;
+    bottom: -48px;
     left: 41%;
+    background-repeat: no-repeat;
 }
 .section-title{
     text-align: center;
+    background-repeat: no-repeat;
 }
 
 @media(max-width:767px){

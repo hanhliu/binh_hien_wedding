@@ -30,8 +30,8 @@ const Couple = () => {
                                             <ul className="d-flex">
                                                 <li><a href="https://www.facebook.com/profile.php?id=100004388221170" target="_blank" rel="noopener noreferrer">
                                                         <span className="fa fa-facebook"></span></a></li>
-                                                <li><a href="https://plus.google.com" target="_blank" rel="noopener noreferrer">
-                                                        <span className="fa fa-instagram"></span></a></li>
+                                                {/* <li><a href="https://plus.google.com" target="_blank" rel="noopener noreferrer">
+                                                        <span className="fa fa-zalo"></span></a></li> */}
                                             </ul>
                                         </div>
                                     </div>
@@ -58,8 +58,8 @@ const Couple = () => {
                                             <ul className="d-flex">
                                             <li><a href="https://www.facebook.com/profile.php?id=100009455429412" target="_blank" rel="noopener noreferrer">
                                                     <span className="fa fa-facebook"></span></a></li>
-                                            <li><a href="https://plus.google.com" target="_blank" rel="noopener noreferrer">
-                                                    <span className="fa fa-instagram"></span></a></li>
+                                            {/* <li><a href="https://plus.google.com" target="_blank" rel="noopener noreferrer">
+                                                    <span className="fa fa-instagram"></span></a></li> */}
                                             </ul>
                                         </div>
                                     </div>

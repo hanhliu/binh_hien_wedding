@@ -1,9 +1,9 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
-import strory1 from '../../images/story/600x421.jpg'
-import strory2 from '../../images/story/600x421.jpg'
-import strory3 from '../../images/story/600x421.jpg'
-import strory4 from '../../images/story/600x421.jpg'
+import strory1 from '../../images/story/600x421_1.jpg'
+import strory2 from '../../images/story/600x421_2.jpg'
+import strory3 from '../../images/story/600x421_3.jpg'
+import strory4 from '../../images/story/600x421_4.jpg'
 import './style.css'
 
 
@@ -34,8 +34,8 @@ const Story = () =>{
                                             </div>
                                         </div>
                                         <h2>Lần Gặp Đầu Tiên</h2>
-                                        <span className="date">July 20, 2017</span>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some,</p>
+                                        <span className="date">20/03/2021</span>
+                                        <p>Lần đầu tiên cô dâu và chú rể gặp nhau là vào năm 2021. Cô dâu, vốn là bạn của em chú rể, đã ghé thăm nhà chú rể, và từ đó, những tình cảm ban đầu đã nảy nở, mở ra chặng đường tìm hiểu và gắn kết giữa hai người.</p>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -50,9 +50,9 @@ const Story = () =>{
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2>Buổi Hẹn Hò Đầu Tiên</h2>
-                                        <span className="date">Dec 25, 2017</span>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some,</p>
+                                        <h2>Khoảnh Khắc Ngỏ Lời Yêu</h2>
+                                        <span className="date">16/07/2021</span>
+                                        <p>Đến một ngày tháng 7 năm 2021, tại khuôn viên phía sau bệnh viện huyện Đông Anh, sau một thời gian tìm hiểu, chú rể đã quyết định ngỏ lời yêu. Theo cô dâu kể lại, chú rể phải nói mãi mới được câu 'Làm người yêu anh nhé', trong khi tim đập chân tay run rẩy. Từ khoảnh khắc đó, câu chuyện tình yêu đẹp của họ chính thức bắt đầu.</p>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -68,8 +68,8 @@ const Story = () =>{
                                             </div>
                                         </div>
                                         <h2>Phút Giây Cầu Hôn</h2>
-                                        <span className="date">Jan 10, 2018</span>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some,</p>
+                                        <span className="date">11/09/2024</span>
+                                        <p>Vào một ngày trời thu tháng 9 yên bình tại Hà Nội, hai bên gia đình đã có một buổi gặp mặt thân mật. Chính trong không khí giản dị đó, như một lời cầu hôn tự nhiên từ chú rể và lời đồng ý chân thành từ cô dâu, họ đã cùng nhau quyết định xây dựng tổ ấm chung. Đó là một khoảnh khắc đầy ý nghĩa, đánh dấu bước ngoặt lớn trong hành trình gắn bó và sẻ chia của hai người, từ đây cùng nhau vun vén cho mái ấm của riêng mình.</p>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -86,7 +86,7 @@ const Story = () =>{
                                         </div>
                                         <h2>Ngày Lễ Thành Hôn</h2>
                                         <span className="date">10/11/2024</span>
-                                        <p>Chúng mình đã đợi ngày này từ rất lâu rồi, hi vọng sẽ để lại gi gì đó bla bla</p>
+                                        <p>Và rồi, họ luôn mong chờ giây phút cùng nhau bước vào lễ đường, như một cột mốc quan trọng đánh dấu sự trưởng thành và chín chắn trong tình yêu. Đó là lời hứa đầy trách nhiệm mà họ dành cho nhau, cùng đồng hành và sẻ chia trong chặng đường phía trước. Từ đây, cả hai sẽ cùng nhau xây dựng và vun đắp tổ ấm, nơi chứa đựng những giá trị yêu thương và hạnh phúc trọn vẹn.</p>
                                     </div>
                                 </div>
                             </div>
