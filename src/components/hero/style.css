@@ -12,6 +12,7 @@
 
 .item1{
     background: url(../../images/slider/1920x1080.jpg);
+    height: 950px;
     display: flex!important;
     justify-content: center;
     flex-direction: column;
@@ -28,6 +29,7 @@
 
 .item2{
     background: url(../../images/slider/1920x1080_2.jpg);
+    height: 950px;
     display: flex!important;
     justify-content: center;
     flex-direction: column;
@@ -148,7 +150,7 @@
 
 .slick-prev:hover,
 .slick-next:hover {
-  background: #5e9a8e;
+  background: #789DBC;
   border: none;
 }
 

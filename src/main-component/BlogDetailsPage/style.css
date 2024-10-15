@@ -48,7 +48,7 @@
   }
   
   .blog-single-section .entry-meta li a {
-    color:#5e9a8e;
+    color:#789DBC;
   }
   
   .blog-single-section .entry-meta img {
@@ -195,7 +195,7 @@
   }
   
   .blog-single-section .tag-share .tag a:hover {
-    background-color:#649e93;
+    background-color:#789DBC;
     color: #fff;
   }
   
@@ -214,9 +214,9 @@
   }
   
   .blog-single-section .tag-share .share a:hover {
-    background:#649e93;
+    background:#789DBC;
     color: #fff;
-    border-color:#649e93;
+    border-color:#789DBC;
   }
   
   .blog-single-section .author-box {
@@ -297,7 +297,7 @@
   }
   
   .blog-single-section .author-box .social-link a:hover {
-    color:#649e93;
+    color:#789DBC;
   }
   
   .blog-single-section .more-posts {
@@ -333,7 +333,7 @@
   
   .blog-single-section .more-posts .previous-post a:hover,
   .blog-single-section .more-posts .next-post a:hover {
-    background-color:#649e93;
+    background-color:#789DBC;
     color: #fff;
   }
   
@@ -445,7 +445,7 @@
   }
   
   .blog-single-section .comments-area .comment-reply-link:hover {
-    background-color:#649e93;
+    background-color:#789DBC;
     color: #fff;
   }
   
@@ -488,7 +488,7 @@
   .blog-single-section .comment-respond form textarea:focus {
     -webkit-box-shadow: none;
     box-shadow: none;
-    border-color:#649e93;
+    border-color:#789DBC;
   }
   
   @media (max-width: 991px) {
@@ -552,7 +552,7 @@
 }
   
   .blog-single-section .comment-respond .form-submit button:hover {
-    background-color:#649e93;
+    background-color:#789DBC;
     color: #fff;
   }
   

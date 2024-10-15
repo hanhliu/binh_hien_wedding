@@ -87,7 +87,7 @@ img{
   opacity: 1;
   left: 0;
   width: 100%;
-  background: #1e7b67;
+  background: #789DBC;
   border: none;
   box-shadow: 0px 1px 5px rgba(0, 0, 0, .1);
     -moz-box-shadow: 0px 1px 5px rgba(0, 0, 0, .1);
@@ -107,9 +107,9 @@ img{
 }
 
 .fixed-navbar.active .header ul li ul li a:hover{
-  color:#1e7b67;
+  color:#789DBC;
 }
 
 .fixed-navbar.active .header .responsivemenu li a:hover {
-  color: #1e7b67;
+  color: #789DBC;
 }

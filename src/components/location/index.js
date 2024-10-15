@@ -28,7 +28,7 @@ const Location = () => {
                                     <span>Sunday, 25 July 18, 9.00 AM-5.00 PM</span>
                                     <span>256 Apay Road,Califonia Bong, London</span>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal </p>
-                                    {/* <LocationMap buttonClass={'location-btn'} /> */}
+                                    <LocationMap buttonClass={'location-btn'} />
                                 </div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@ const Location = () => {
                                 <span>Sunday, 25 July 18, 9.00 AM-5.00 PM</span>
                                 <span>256 Apay Road,Califonia Bong, London</span>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal </p>
-                                {/* <LocationMap buttonClass={'location-btn'} /> */}
+                                <LocationMap buttonClass={'location-btn'} />
                             </div>
                         </div>
                         <div className="col-lg-5">
@@ -65,7 +65,7 @@ const Location = () => {
                                 <span>Sunday, 25 July 18, 9.00 AM-5.00 PM</span>
                                 <span>256 Apay Road,Califonia Bong, London</span>
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal </p>
-                                {/* <LocationMap buttonClass={'location-btn'} /> */}
+                                <LocationMap buttonClass={'location-btn'} />
                             </div>
                         </div>
                     </div>

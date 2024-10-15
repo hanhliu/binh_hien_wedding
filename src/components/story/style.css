@@ -3,7 +3,7 @@ Story-Area
 ====================================*/
 
 .story-area {
-    background: rgba(178,201,211,.1);
+    background: rgba(120,157,188,.1);
 }
 
 .story {
@@ -35,7 +35,7 @@ Story-Area
     z-index: 20;
     display: block;
     font-size: 50px;
-    color: #5e9a8d82;
+    color: #789DBC;
 }
 .story-area.story-style-2 .story-top:before,
 .story-area.story-style-2 .story-bottom:before {
@@ -55,7 +55,7 @@ Story-Area
     background: #E8EFED;
 }
 .story-area.story-style-2 .story .content-wrapper::before {
-    background:#9a8c40a6;
+    background:#789DBC;
     opacity: .2;
 }
 .story .item {
@@ -91,10 +91,10 @@ Story-Area
 }
 
 .story .item .story-content:hover {
-    background: #f2f9f7;
+    background: #d0e3eb;
 }
 .story-area.story-style-2  .story .item .story-content:hover {
-    background: #9a8c401a;
+    background: #789DBC;
 }
 
 .story .item .story-content>p,
@@ -107,7 +107,7 @@ Story-Area
 }
 .story a.story-btn {
     font-weight: 500;
-    color: #5e9a8d;
+    color: #789DBC;
     text-transform: uppercase;
     font-size: 17px;
 }
@@ -177,7 +177,7 @@ Story-Area
     margin-bottom: 2px;
     font-family: 'Great Vibes', cursive;
     font-size: 40px;
-    color: #5e9a8d;
+    color: #789DBC;
 }
 .story-area.story-style-2 .story .story-content h2 {
     margin-bottom: 2px;
@@ -222,10 +222,10 @@ Story-Area
     font-size: 18px;
     line-height: 60px;
     border-radius: 50%;
-    background: #E8EFED;
+    background: #e8ebef;
     content:"\f108";
     font-family: "Flaticon";
-    border: 5px solid #d9ece7;
+    border: 5px solid #8bb7dc;
 }
 .story-area.story-style-2 .story .story-icon {
     position: absolute;
@@ -246,7 +246,7 @@ Story-Area
 .story-icon span:before {
     font-size: 30px;
     line-height: 30px;
-    color: #5e9a8d;
+    color: #789DBC;
 }
 .story-area.story-style-2 .story-icon span:before {
     color: #9a8c40;
@@ -269,7 +269,7 @@ Story-Area
     color: #333;
 }
 .story-area a.theme-btn:hover {
-    color: #5e9a8e;
+    color: #789DBC;
 }
 
 .story-area.story-style-2 a.theme-btn:hover{

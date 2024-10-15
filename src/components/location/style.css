@@ -20,13 +20,13 @@
 }
 .service-area-menu li a.active,
 .service-area-menu li a:hover {
-    background: #4e7b72;
+    background: #789DBC;
     color: #fff;
 }
 
 .service-area-menu ul {
     margin-top: 50px;
-    background: #649e93;
+    background: #789DBC;
 }
 
 .ceromony-content2 {
@@ -35,7 +35,7 @@
 
 .Ceremony-wrap {
     margin-top: 30px;
-    background: #f5fbfb;
+    background: rgba(120,157,188,.1);
 }
 
 #people .Ceremony-wrap {
@@ -45,7 +45,7 @@
     margin-top: 0;
 }
 .service-area2 .Ceremony-wrap {
-    background: #f5fbfb;
+    background: rgba(120,157,188,.1);
 }
 .ceromony-content {
     display: flex;
@@ -57,12 +57,12 @@
 
 .ceromony-content h3 {
     font-size: 30px;
-    color: #649e93;
+    color: #789DBC;
     margin-bottom: 16px;
 }
 
 .ceromony-content .location-btn {
-    color: #649e93;
+    color: #789DBC;
     font-weight: 600;
     display: inline-block;
     max-width: 130px;
@@ -72,7 +72,7 @@
 }
 .ceromony-content .btn.location-btn:hover {
     background: none!important;
-    color: #649e93;
+    color: #789DBC;
 }
 .ceromony-content .location-btn:focus {
     box-shadow: none;
@@ -131,5 +131,5 @@
     border-radius: 50%;
     z-index: 11;
     background: #fff;
-    border: 2px solid #1e7b67;
+    border: 2px solid #789DBC;
 }
