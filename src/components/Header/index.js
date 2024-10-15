@@ -22,7 +22,7 @@ const Header = () => {
                             <div className="header-menu d-lg-block d-none">
                                 <ul className="mobail-menu d-flex">
                                     <li><AnchorLink href='#home'>HOME</AnchorLink></li>
-                                    <li><AnchorLink href='#couple'>ABOUT US</AnchorLink></li>
+                                    <li><AnchorLink href='#couple'>COUPLE</AnchorLink></li>
                                     <li><AnchorLink href='#story'>STORY</AnchorLink></li>
                                     <li><AnchorLink href='#event'>EVENTS</AnchorLink></li>
                                     <li><AnchorLink href='#gallery'>GALLERY</AnchorLink></li>

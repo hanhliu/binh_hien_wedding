@@ -23,7 +23,7 @@
 }
 
 .couple-imgg img {
-    width: 80%; /* Điều chỉnh lại kích thước theo tỷ lệ phần trăm */
+    width: 70%; /* Điều chỉnh lại kích thước theo tỷ lệ phần trăm */
     height: auto; /* Đảm bảo giữ nguyên tỷ lệ của hình ảnh */
     margin: 0 auto; /* Căn giữa hình ảnh */
     display: block; /* Đảm bảo hình ảnh căn giữa trong div */

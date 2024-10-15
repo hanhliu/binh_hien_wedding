@@ -2,7 +2,7 @@ import React from 'react'
 const { useState, useEffect } = React;
 
 const TimeCountDown = (props) => {
-  const [countdownDate] = useState(new Date('9/15/2024').getTime());
+  const [countdownDate] = useState(new Date('11/10/2024').getTime());
   const [state, setState] = useState({
     days: 0,
     hours: 0,
@@ -18,7 +18,7 @@ const TimeCountDown = (props) => {
     if (countdownDate) {
       const currentTime = new Date().getTime();
 
-      const distanceToDate = countdownDate - currentTime;
+      const distanceToDate = countdownDate-currentTime;
 
       let days = Math.floor(distanceToDate / (1000 * 60 * 60 * 24));
       let hours = Math.floor(
