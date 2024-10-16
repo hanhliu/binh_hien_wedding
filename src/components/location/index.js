@@ -3,7 +3,6 @@ import Sectiontitle from '../section-title'
 import events1 from '../../images/events/600x430_1.jpg'
 import events2 from '../../images/events/600x430_2.jpg'
 import events3 from '../../images/events/600x430_3.jpg'
-import LocationMap from '../LocationModal/LocationModal'
 
 import './style.css'
 
