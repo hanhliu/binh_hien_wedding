@@ -34,8 +34,8 @@ const Story = () =>{
                                             </div>
                                         </div>
                                         <h2>Lần Gặp Đầu Tiên</h2>
-                                        <span className="date">20/03/2021</span>
-                                        <p>Lần đầu tiên cô dâu và chú rể gặp nhau là vào năm 2021. Cô dâu, vốn là bạn của em chú rể, đã ghé thăm nhà chú rể, và từ đó, những tình cảm ban đầu đã nảy nở, mở ra chặng đường tìm hiểu và gắn kết giữa hai người.</p>
+                                        <span className="date">09/06/2021</span>
+                                        <p>Lần đầu tiên cô dâu và chú rể gặp nhau là vào mùa hè năm 2021. Cô dâu, vốn là bạn của em chú rể, đã ghé thăm nhà chú rể, và từ đó, những tình cảm ban đầu đã nảy nở, mở ra chặng đường tìm hiểu và gắn kết giữa hai người.</p>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -52,7 +52,7 @@ const Story = () =>{
                                         </div>
                                         <h2>Khoảnh Khắc Ngỏ Lời Yêu</h2>
                                         <span className="date">16/07/2021</span>
-                                        <p>Đến một ngày tháng 7 năm 2021, tại khuôn viên phía sau bệnh viện huyện Đông Anh, sau một thời gian tìm hiểu, chú rể đã quyết định ngỏ lời yêu. Theo cô dâu kể lại, chú rể phải nói mãi mới được câu 'Làm người yêu anh nhé', trong khi tim đập chân tay run rẩy. Từ khoảnh khắc đó, câu chuyện tình yêu đẹp của họ chính thức bắt đầu.</p>
+                                        <p>"Vào một buổi tối năm 2021, khi dịch COVID đã được kiểm soát, tại khuôn viên yên tĩnh sau bệnh viện huyện Đông Anh, anh đã thổ lộ với em những lời yêu thương chân thành. Trái tim đập liên hồi, tay run rẩy, nhưng anh vẫn nói ra từ tận đáy lòng. Và rồi, anh được nghe câu trả lời ngọt ngào nhất từ em, đánh dấu bước ngoặt quan trọng trong tình yêu của chúng mình." - Chú rể chia sẻ.</p>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -67,9 +67,9 @@ const Story = () =>{
                                                 </div>
                                             </div>
                                         </div>
-                                        <h2>Phút Giây Cầu Hôn</h2>
+                                        <h2>Quyết Định Về Chung Một Nhà</h2>
                                         <span className="date">11/09/2024</span>
-                                        <p>Vào một ngày trời thu tháng 9 yên bình tại Hà Nội, hai bên gia đình đã có một buổi gặp mặt thân mật. Chính trong không khí giản dị đó, như một lời cầu hôn tự nhiên từ chú rể và lời đồng ý chân thành từ cô dâu, họ đã cùng nhau quyết định xây dựng tổ ấm chung. Đó là một khoảnh khắc đầy ý nghĩa, đánh dấu bước ngoặt lớn trong hành trình gắn bó và sẻ chia của hai người, từ đây cùng nhau vun vén cho mái ấm của riêng mình.</p>
+                                        <p>Vào một ngày tháng 9, tình cờ trời đổ mưa, như thể càng làm cho câu chuyện của chúng mình thêm phần đặc biệt. Hôm đó, hai gia đình đã quyết định tổ chức lễ dạm ngõ cho đôi trẻ, như một lời hứa hôn thiêng liêng giữa hai bên. Không cần một màn cầu hôn cầu kỳ, chỉ với cái gật đầu đồng ý từ bố mẹ hai bên là đủ. Và thế là, trong buổi gặp gỡ giản dị, ấm cúng ấy, chúng mình đã chính thức quyết định về chung một nhà, bắt đầu hành trình cùng nhau xây dựng tổ ấm.</p>
                                     </div>
                                 </div>
                                 <div className="item">
@@ -86,7 +86,7 @@ const Story = () =>{
                                         </div>
                                         <h2>Ngày Lễ Thành Hôn</h2>
                                         <span className="date">10/11/2024</span>
-                                        <p>Và rồi, họ luôn mong chờ giây phút cùng nhau bước vào lễ đường, như một cột mốc quan trọng đánh dấu sự trưởng thành và chín chắn trong tình yêu. Đó là lời hứa đầy trách nhiệm mà họ dành cho nhau, cùng đồng hành và sẻ chia trong chặng đường phía trước. Từ đây, cả hai sẽ cùng nhau xây dựng và vun đắp tổ ấm, nơi chứa đựng những giá trị yêu thương và hạnh phúc trọn vẹn.</p>
+                                        <p>Tình yêu của chúng tôi đã trải qua biết bao khoảnh khắc đáng nhớ, và giờ đây, lễ cưới chính là cột mốc đánh dấu sự trưởng thành của cả hai trong chặng đường yêu thương. Đó là lời khẳng định cho một quyết định đầy chín chắn, và cũng là lời hứa sẽ luôn yêu thương, đồng hành cùng nhau trên mọi nẻo đường của cuộc sống.</p>
                                     </div>
                                 </div>
                             </div>

@@ -10,9 +10,7 @@ const Welcome = () =>{
                     <div className="col-lg-12">
                         <div className="welcome-content">
                             <h2>Welcome to our big day</h2>
-                            <p>Chào mừng bạn đến với ngày trọng đại của chúng tôi! Chúng tôi rất hạnh phúc khi được chia sẻ khoảnh khắc đặc biệt này với 
-                            những người thân yêu và bạn bè. Đây không chỉ là dấu mốc khởi đầu cho hành trình mới của chúng tôi, mà còn là dịp để cảm ơn tất cả những ai đã luôn bên cạnh và ủng hộ. 
-                            Hãy cùng chúng tôi kỷ niệm ngày tuyệt vời này với niềm vui và hạnh phúc trọn vẹn.</p>
+                            <p>Kính mời bạn bè gần xa, tất cả những người đã nhận được thư mời này vào lúc này. Bạn là người quan trọng nhất mà chúng tôi đã gặp ở những vĩ độ và kinh độ khác nhau trong cuộc đời. Vợ chồng chúng mình chân thành mời bạn đến dự lễ cưới của chúng tôi. Hy vọng bạn sẽ là nhân chứng cho tình yêu của chúng tôi trong ngày trọng đại này!</p>
                             {/* <div className="btn"><Link to="/home">RSVP</Link></div>
                             <LocationMap buttonClass={'location-btn'} /> */}
                         </div>
