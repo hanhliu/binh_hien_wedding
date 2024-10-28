@@ -82,7 +82,7 @@ const Location = () => {
                                 <p>Cô dâu: 098 732 0472</p>
                                 <div className="location-btn">
                                         <a 
-                                            href="https://goo.gl/maps/ajdBca4tx9YetXTH6" 
+                                            href="https://goo.gl/maps/sbueJLZwERoLaAf57" 
                                             target="_blank" 
                                             rel="noopener noreferrer"
                                         >
